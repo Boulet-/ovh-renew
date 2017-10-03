@@ -1,7 +1,7 @@
 ovh-renew
 ==================
 
-## Installing
+## Install
 ```bash
 pip install -r requirements.txt
 ```
